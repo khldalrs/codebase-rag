@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gitpython
+pinecone-client
+sentence-transformers
+langchain
+langchain-community
+openai
+python-dotenv
